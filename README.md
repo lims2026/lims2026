@@ -34,9 +34,9 @@ When I'm not coding or cleaning datasets, I am creating travel videos. I'm curre
 ---
 
 ### 📫 Connect with Me
-* **[Portfolio](https://bhabs2021.github.io/portfolio/):**
+* **[Portfolio](https://bhabs2021.github.io/portfolio/)**
 * **[LinkedIn](https://www.linkedin.com/in/bhabilsh-l-1200771b1/)**
-* **Email:** Limbubhabilsh@gmail.com
+* **limbubhabilsh@gmail.com**
 
 <!--
 **bhabs2021/bhabs2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
