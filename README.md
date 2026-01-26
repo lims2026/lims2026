@@ -12,6 +12,8 @@ I created this GitHub account to present a portfolio of stable, well‑documente
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Quarto](https://img.shields.io/badge/Quarto-447099?style=for-the-badge&logo=quarto&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
 
 ---
 
