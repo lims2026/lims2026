@@ -34,7 +34,7 @@ When I'm not coding or cleaning datasets, I am creating travel videos. I'm curre
 ---
 
 ### 📫 Connect with Me
-* **[Portfolio](https://bhabs2021.github.io/portfolio/)**
+* **[Portfolio](https://lims2026.github.io/portfolio/)**
 * **[LinkedIn](https://www.linkedin.com/in/bhabilsh-l-1200771b1/)**
 * **limbubhabilsh@gmail.com**
 
