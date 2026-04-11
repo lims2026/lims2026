@@ -20,6 +20,9 @@ I created this GitHub account to present a portfolio of stable, well‑documente
 ### 🔭 Current Projects
 * **🌍 Global Rehabilitation Analysis:** Using Power BI to visualise the prevalence, impact, and trends of rehabilitation-related health conditions, supporting efforts to strengthen healthcare systems.
 * **💳 Customer Segmentation:** Using clustering algorithms to identify spending patterns in credit card data.
+* **🧭 Web Funnel Analysis:** Analysing user journeys through a multi‑step conversion funnel to evaluate drop‑offs, source quality, and A/B test performance.
+
+* **🗺️ Geospatial Solar Suitability:** Using H3 hexagonal grids and OSM data to model land suitability for solar infrastructure across Ukraine.
 
 ---
 
