@@ -10,8 +10,11 @@ I created this GitHub account to present a portfolio of stable, well‑documente
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-English, Nepali, Cantonese, Hindi, and Mandarin
-
+![English](https://img.shields.io/badge/English-000000?style=for-the-badge&logo=google-translate&logoColor=white)  
+![Nepali](https://img.shields.io/badge/Nepali-DC143C?style=for-the-badge&logo=google-translate&logoColor=white)
+![Cantonese](https://img.shields.io/badge/Cantonese-FFCC00?style=for-the-badge&logo=google-translate&logoColor=white)
+![Hindi](https://img.shields.io/badge/Hindi-FF9933?style=for-the-badge&logo=google-translate&logoColor=white)
+![Mandarin](https://img.shields.io/badge/Mandarin-DE2910?style=for-the-badge&logo=google-translate&logoColor=white)
 
 ---
 
