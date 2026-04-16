@@ -1,4 +1,4 @@
-<div style="background: linear-gradient(135deg, #87CEEB, #FFD59E); padding: 20px; border-radius: 10px;">
+<img src="https://raw.githubusercontent.com/lims2026/lims2026/main/mesh-bg.svg" width="100%">
 
 # Hi there, I'm Lims! 👋
 
@@ -60,4 +60,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://raw.githubusercontent.com/lims2026/lims2026/main/mesh-bg.svg" width="100%">
 
