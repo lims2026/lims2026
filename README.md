@@ -27,7 +27,7 @@ I created this GitHub account to present a portfolio of stable, well‑documente
 ---
 
 ### 📈 GitHub Stats 
-![B. Lims's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhabs2021&show_icons=true&theme=radical)
+![B. Lims's GitHub stats](https://github-readme-stats.vercel.app/api?username=lims2026&show_icons=true&theme=radical)
 
 ---
 
