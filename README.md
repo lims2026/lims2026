@@ -1,8 +1,6 @@
-<img src="https://raw.githubusercontent.com/lims2026/lims2026/main/mesh-bg.svg" width="100%">
 
 # Hi there, I'm Lims! 👋
 
-</div>
 
 ### 🎓 Data Science Student @ University of Greenwich
 I created this GitHub account to present a portfolio of stable, well‑documented projects, distinct from my legacy repositories that contain deprecated code and early-stage prototypes.
@@ -31,11 +29,6 @@ I created this GitHub account to present a portfolio of stable, well‑documente
 
 ---
 
-### 📈 GitHub Stats 
-![B. Lims's GitHub stats](https://github-readme-stats.vercel.app/api?username=lims2026&show_icons=true&theme=radical)
-
----
-
 ### ⚡ Fun Fact
 When I'm not coding or cleaning datasets, I am creating travel videos. I'm currently learning how to use my new gadget Dji osmo pocket 3 📷!
 
@@ -59,7 +52,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-<img src="https://raw.githubusercontent.com/lims2026/lims2026/main/mesh-bg.svg" width="100%">
 
