@@ -1,16 +1,10 @@
-<svg width="100%" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="120" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <radialGradient id="g1" cx="20%" cy="30%" r="60%">
-      <stop offset="0%" stop-color="#87CEEB" />
-      <stop offset="100%" stop-color="#FFFFFF" />
-    </radialGradient>
-
-    <radialGradient id="g2" cx="80%" cy="70%" r="60%">
-      <stop offset="0%" stop-color="#FFD59E" />
-      <stop offset="100%" stop-color="#FFFFFF" />
-    </radialGradient>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00ADEF" />
+      <stop offset="100%" stop-color="#F99E1A" />
+    </linearGradient>
   </defs>
 
-  <rect width="1200" height="300" fill="url(#g1)" />
-  <rect width="1200" height="300" fill="url(#g2)" style="mix-blend-mode: screen;" />
+  <rect width="1200" height="120" fill="url(#grad)" />
 </svg>
