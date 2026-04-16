@@ -1,4 +1,8 @@
+<div style="background: linear-gradient(135deg, #87CEEB, #FFD59E); padding: 20px; border-radius: 10px;">
+
 # Hi there, I'm Lims! 👋
+
+</div>
 
 ### 🎓 Data Science Student @ University of Greenwich
 I created this GitHub account to present a portfolio of stable, well‑documented projects, distinct from my legacy repositories that contain deprecated code and early-stage prototypes.
@@ -56,3 +60,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
